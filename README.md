@@ -1,4 +1,4 @@
-# BCG X - Capstone Project
+# BCG X - Capstone Project: Churn Modelling & Demand Analysis
 By: Morten Aas-Lyngby, Ignacio Alonso, Paolo Brambillasca, Alberto Dona & Emilio Rodriguez
 
 This repo contains the notebooks to execute the same analyses for our BCG X Capstone. 
